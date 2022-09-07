@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **pbek/pbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+![pbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbek&theme=vue&show_icons=true)
+
+Visit [bekerle.com](https://www.bekerle.com) for ways to contact me.
