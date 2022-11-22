@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
+<!-- It seems like GitHub is caching this and it gets broken after a while -->
 ![pbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbek&theme=vue&show_icons=true)
 
 Visit [bekerle.com](https://www.bekerle.com) for ways to contact me.
