@@ -18,4 +18,8 @@ Here are some ideas to get you started:
 <!-- It seems like GitHub is caching this and it gets broken after a while -->
 ![pbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbek&theme=vue&show_icons=true)
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbek)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 Visit [bekerle.com](https://www.bekerle.com) for ways to contact me.
