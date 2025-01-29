@@ -15,11 +15,21 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-<!-- It seems like GitHub is caching this and it gets broken after a while -->
-![pbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbek&theme=vue&show_icons=true)
+---
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbek)](https://github.com/anuraghazra/github-readme-stats)
--->
+<table align="center"><tr><td align="center">
+
+[![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=pbek&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)](https://github.com/billy1624#gh-dark-mode-only)
+
+[![My GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=pbek&show_icons=true&theme=default&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true)](https://github.com/billy1624#gh-light-mode-only)
+
+</td>
+<td align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</td></tr></table>
+
+---
 
 Visit [bekerle.com](https://www.bekerle.com) for ways to contact me.
